@@ -1,6 +1,6 @@
 # ⚡ ElectroFactura - ElectriCity S.A.
 
-![BANNER]<img width="651" height="502" alt="image" src="https://github.com/user-attachments/assets/261b81ad-aea0-4eb4-899d-115d295a7081" />
+![BANNER](<img width="651" height="502" alt="image" src="https://github.com/user-attachments/assets/261b81ad-aea0-4eb4-899d-115d295a7081" />)
 
 
 **ElectroFactura** es el sistema oficial de gestión de clientes y facturación desarrollado para los empleados de ElectriCity S.A. Diseñado para ser rápido, eficiente y fácil de usar.
