@@ -29,7 +29,7 @@ A continuación, tienes disponibles los dos instaladores oficiales para Windows:
 
 ### ☕ Opción 2: Instalador Básico
 *Creado nativamente con la herramienta jpackage de Java.*
-[**⬇️ DESCARGAR INSTALADOR BÁSICO (.EXE)**](PEGA_AQUI_TU_ENLACE_DE_JPACKAGE)
+[**⬇️ DESCARGAR INSTALADOR BÁSICO (.EXE)**](https://github.com/SamGod16/ElectroFactura/releases/download/v1.0.0/ElectroFactura-1.0.0.exe)
 
 ---
 *© 2026 ElectriCity S.A. Todos los derechos reservados.*
