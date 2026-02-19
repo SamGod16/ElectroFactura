@@ -1,6 +1,6 @@
 # ⚡ ElectroFactura - ElectriCity S.A.
 
-![Banner](<img width="649" height="498" alt="image" src="https://github.com/user-attachments/assets/e0148eb4-42eb-438f-adb2-80204a90f9a2" />)
+![Banner](<img width="649" height="498" alt="Banner ElectroFactura" src="https://github.com/user-attachments/assets/e0148eb4-42eb-438f-adb2-80204a90f9a2" />)
 
 **ElectroFactura** es el sistema oficial de gestión de clientes y facturación desarrollado para los empleados de ElectriCity S.A. Diseñado para ser rápido, eficiente y fácil de usar.
 
@@ -19,17 +19,16 @@ Para garantizar un rendimiento óptimo, el equipo debe cumplir con los siguiente
 * **Almacenamiento:** 150 MB de espacio libre en disco.
 * **Permisos:** Privilegios de administrador para la instalación.
 
-## 📥 Descarga e Instalación
+## 📥 Descargas Oficiales
+A continuación, tienes disponibles los dos instaladores oficiales para Windows:
 
-Descarga la última versión estable desde nuestro servidor seguro:
+### 🌟 Opción 1: Instalador Avanzado (Recomendado)
+*Creado con Inno Setup. Incluye asistente visual, tipos de instalación (Típica/Completa/Personalizada) y sistema de feedback.*
+[**⬇️ DESCARGAR INSTALADOR INNO SETUP (.EXE)**](PEGA_AQUI_TU_ENLACE_DE_INNO_SETUP)
 
-[**⬇️ DESCARGAR ELECTROFACTURA v1.0.0 (.EXE)**](PEGA_AQUI_TU_ENLACE_DE_LA_RELEASE)
-
-### Tipos de Instalación Disponibles:
-Al ejecutar el instalador, podrás elegir entre:
-1. **Completa (Recomendada):** Instala la app, el manual de usuario (PDF) y una base de datos de ejemplo (CSV).
-2. **Típica:** Solo los archivos esenciales para funcionar.
-3. **Personalizada:** Elige qué componentes instalar y la ruta de destino.
+### ☕ Opción 2: Instalador Básico
+*Creado nativamente con la herramienta jpackage de Java.*
+[**⬇️ DESCARGAR INSTALADOR BÁSICO (.EXE)**](PEGA_AQUI_TU_ENLACE_DE_JPACKAGE)
 
 ---
 *© 2026 ElectriCity S.A. Todos los derechos reservados.*
