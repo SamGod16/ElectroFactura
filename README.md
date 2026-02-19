@@ -25,7 +25,7 @@ A continuación, tienes disponibles los dos instaladores oficiales para Windows:
 
 ### 🌟 Opción 1: Instalador Avanzado (Recomendado)
 *Creado con Inno Setup. Incluye asistente visual, tipos de instalación (Típica/Completa/Personalizada) y sistema de feedback.*
-[**⬇️ DESCARGAR INSTALADOR INNO SETUP (.EXE)**](PEGA_AQUI_TU_ENLACE_DE_INNO_SETUP)
+[**⬇️ DESCARGAR INSTALADOR INNO SETUP (.EXE)**](https://github.com/SamGod16/ElectroFactura/releases/download/v1.0.0/mysetup.exe)
 
 ### ☕ Opción 2: Instalador Básico
 *Creado nativamente con la herramienta jpackage de Java.*
